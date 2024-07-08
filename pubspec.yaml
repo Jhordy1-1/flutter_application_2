@@ -59,6 +59,11 @@ flutter:
   uses-material-design: true
   assets:
     - images/lake.jpeg
+    - images/banios.jpg
+    - images/galapagos.jpg
+    - images/mitad.jpeg
+    - images/quilotoa.jpg
+    - images/ronda.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
